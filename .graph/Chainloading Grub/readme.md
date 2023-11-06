@@ -10,7 +10,8 @@ sch:
 https://wiki.gentoo.org/wiki/GRUB/Chainloading
 
 # Doc:
-https://www.gnu.org/software/grub/manual/grub/html_node/Chain_002dloading.html
+- https://www.gnu.org/software/grub/manual/grub/html_node/Chain_002dloading.html
+- https://www.gnu.org/software/grub/manual/grub/grub.html
 
 # Guide:
 https://help.ubuntu.com/community/Grub2/Installing
