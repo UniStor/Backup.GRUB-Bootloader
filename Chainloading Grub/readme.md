@@ -13,3 +13,12 @@ https://www.gnu.org/software/grub/manual/grub/html_node/Chain_002dloading.html
 
 # Guide:
 https://help.ubuntu.com/community/Grub2/Installing
+
+# Install on Partition()
+Works:
+- https://askubuntu.com/questions/1161746/grub-install-error-will-not-proceed-with-blocklists
+
+```
+sudo grub-install /dev/sda1 --force
+sudo update-grub
+```
