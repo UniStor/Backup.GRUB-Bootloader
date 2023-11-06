@@ -6,4 +6,5 @@
 https://wiki.archlinux.org/title/GRUB#BIOS_systems
 
 # Loading another operating system
-https://wiki.gentoo.org/wiki/GRUB2_Quick_Start#Loading_another_operating_system
+- https://wiki.gentoo.org/wiki/GRUB2_Quick_Start#Loading_another_operating_system
+- https://wiki.archlinux.org/title/GRUB#Detecting_other_operating_systems
